@@ -1,16 +1,12 @@
 # Photo GeoTagger
 
-A new Flutter project.
+## Package Used In Project
 
-## Getting Started
+ - [permission_handler](https://pub.dev/packages/permission_handler)
+ - [geolocator](https://pub.dev/packages/geolocator)
+ - [image_picker](https://pub.dev/packages/image_picker)
+ - [sqflite](https://pub.dev/packages/sqflite)
 
-This project is a starting point for a Flutter application.
+## Demo Link
+https://drive.google.com/file/d/1dVjSA3cwiPF76gJCNNCGdZELhftP67fK/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
