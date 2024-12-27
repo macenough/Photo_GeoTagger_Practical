@@ -1,4 +1,4 @@
-# camera_located
+# Photo GeoTagger
 
 A new Flutter project.
 
